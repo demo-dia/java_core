@@ -1,0 +1,114 @@
+{
+  "code": 200,
+  "status": true,
+  "message": "success",
+  "data": [
+    {
+      "route": {
+        "features": [
+          {
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  13382387.5206,
+                  3541106.81
+                ],
+                [
+                  13382391.0762,
+                  3541106.2609
+                ]
+              ]
+            },
+            "properties": {
+              "altitude": -2.5,
+              "startIndex": null,
+              "escalator": null,
+              "belong": "outdoor",
+              "floorAddress": "N1",
+              "endIndex": null,
+              "name": "G灞",
+              "floor": "01SZ02N01",
+              "pathType": null,
+              "filletFlag": null,
+              "category": null,
+              "hasTransitPoint": false
+            },
+            "type": null,
+            "featureId": "01SZ02N0160429",
+            "direction": 1
+          },
+          {
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  13382391.0762,
+                  3541106.2609
+                ],
+                [
+                  13382389.0703,
+                  3541093.2711
+                ]
+              ]
+            },
+            "properties": {
+              "altitude": -2.5,
+              "startIndex": null,
+              "escalator": null,
+              "belong": "outdoor",
+              "floorAddress": "N1",
+              "endIndex": null,
+              "name": "G灞",
+              "floor": "01SZ02N01",
+              "pathType": null,
+              "filletFlag": null,
+              "category": null,
+              "hasTransitPoint": false
+            },
+            "type": null,
+            "featureId": "01SZ02N0160428",
+            "direction": 1
+          },
+          {
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  13382389.0703,
+                  3541093.2711
+                ],
+                [
+                  13382395.769,
+                  3541092.2367
+                ]
+              ]
+            },
+            "properties": {
+              "altitude": -2.5,
+              "startIndex": null,
+              "escalator": null,
+              "belong": "outdoor",
+              "floorAddress": "N1",
+              "endIndex": null,
+              "name": "G灞",
+              "floor": "01SZ02N01",
+              "pathType": null,
+              "filletFlag": null,
+              "category": null,
+              "hasTransitPoint": false
+            },
+            "type": null,
+            "featureId": "01SZ02N0160421",
+            "direction": 2
+          }
+        ],
+        "type": "FeatureCollection"
+      },
+      "distance": 22,
+      "time": 22,
+      "strategy": "shortest",
+      "message": "success"
+    }
+  ]
+}
